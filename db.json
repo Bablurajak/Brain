@@ -1,0 +1,134 @@
+{
+  "contacts": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Pradipta",
+        "last": "Mukherjee"
+      },
+      "location": {
+        "street": "bbbb Tower-8 Ground floor A-wing",
+        "city": "Bengalur phaase11",
+        "state": "Karnataka",
+        "postcode": 560001
+      },
+      "dob": "1975-02-12 22:37:50",
+      "registered": "2009-05-14 06:49:49",
+      "phone": "02-00-04-75-50",
+      "cell": "06-96-37-91-15",
+      "email": "eliott.legrand@wipro.com",
+      "id": 1,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/26.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+      },
+      "not": "TR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Bablu",
+        "last": "Rajak"
+      },
+      "location": {
+        "street": "bababab",
+        "city": "colombes",
+        "state": "lot-et-garonne",
+        "postcode": 51575
+      },
+      "dob": "1975-02-12 22:37:50",
+      "registered": "2009-05-14 06:49:49",
+      "phone": "02-00-04-75-50",
+      "cell": "06-96-37-91-15",
+      "email": "Bablu.Rajak@wipro.com",
+      "id": 2,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/26.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+      },
+      "not": "TR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Jitu",
+        "last": "Kumawat"
+      },
+      "location": {
+        "street": "jjjjjj",
+        "city": "colombes",
+        "state": "lot-et-garonne",
+        "postcode": 51575
+      },
+      "dob": "1975-02-12 22:37:50",
+      "registered": "2009-05-14 06:49:49",
+      "phone": "02-00-04-75-50",
+      "cell": "06-96-37-91-15",
+      "email": "Raju.Rajak@wipro.com",
+      "id": 3,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/26.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+      },
+      "not": "TR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Akhi",
+        "last": "Prassad"
+      },
+      "location": {
+        "street": "3344 rue saint-georges",
+        "city": "colombes",
+        "state": "lot-et-garonne",
+        "postcode": 51575
+      },
+      "dob": "1975-02-12 22:37:50",
+      "registered": "2009-05-14 06:49:49",
+      "phone": "02-00-04-75-50",
+      "cell": "06-96-37-91-15",
+      "email": "Raju.Rajak@wipro.com",
+      "id": 3,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/26.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+      },
+      "not": "TR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Jitu",
+        "last": "Kumawat"
+      },
+      "location": {
+        "street": "3344 rue saint-georges",
+        "city": "colombes",
+        "state": "lot-et-garonne",
+        "postcode": 51575
+      },
+      "dob": "1975-02-12 22:37:50",
+      "registered": "2009-05-14 06:49:49",
+      "phone": "02-00-04-75-50",
+      "cell": "06-96-37-91-15",
+      "email": "Raju.Rajak@wipro.com",
+      "id": 3,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/26.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+      },
+      "not": "TR"
+    }
+  ]
+}
